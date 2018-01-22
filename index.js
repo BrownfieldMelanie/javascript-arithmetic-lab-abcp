@@ -2,7 +2,7 @@ var a = 2 * 1000
 var b = 3 * 1000
 
 
-function add(){
+function add(a, b){
   return (a + b)
 }
 subtract(a, b); {
