@@ -1,9 +1,9 @@
-a = 2 * 1000
-b = 3 * 1000
+var a = 2 * 1000
+var b = 3 * 1000
 
 
-add(); {
- console.log (a + b)
+add(){
+ (a + b)
 }
 subtract(a, b); {
  a - b
