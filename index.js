@@ -2,7 +2,7 @@ a = 2 * 1000
 b = 3 * 1000
 
 
-add(a, b); {
+add(); {
  console.log (a + b)
 }
 subtract(a, b); {
