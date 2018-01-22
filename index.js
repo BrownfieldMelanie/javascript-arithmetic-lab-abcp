@@ -3,7 +3,7 @@ b = 3 * 1000
 
 
 add(a, b); {
- return a + b
+ console.log (a + b)
 }
 subtract(a, b); {
  a - b
